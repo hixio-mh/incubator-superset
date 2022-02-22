@@ -24,7 +24,7 @@ decorator==4.4.1          # via retry
 defusedxml==0.6.0         # via python3-openid
 dnspython==1.16.0         # via email-validator
 email-validator==1.0.5    # via flask-appbuilder
-flask-appbuilder==2.3.4   # via apache-superset (setup.py)
+flask-appbuilder==3.4.4   # via apache-superset (setup.py)
 flask-babel==1.0.0        # via flask-appbuilder
 flask-caching==1.8.0      # via apache-superset (setup.py)
 flask-compress==1.4.0     # via apache-superset (setup.py)
@@ -55,7 +55,7 @@ marshmallow-sqlalchemy==0.21.0  # via flask-appbuilder
 marshmallow==2.19.5       # via flask-appbuilder, marshmallow-enum, marshmallow-sqlalchemy
 more-itertools==8.1.0     # via zipp
 msgpack==0.6.2            # via apache-superset (setup.py)
-numpy==1.18.1             # via pandas, pyarrow
+numpy==1.22.2             # via pandas, pyarrow
 pandas==1.0.3             # via apache-superset (setup.py)
 parsedatetime==2.5        # via apache-superset (setup.py)
 pathlib2==2.3.5           # via apache-superset (setup.py)
