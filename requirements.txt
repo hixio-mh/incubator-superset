@@ -86,7 +86,7 @@ webencodings==0.5.1       # via bleach
 werkzeug==0.16.0          # via flask, flask-jwt-extended
 wtforms-json==0.3.3       # via apache-superset (setup.py)
 wtforms==2.2.1            # via flask-wtf, wtforms-json
-zipp==2.0.0               # via importlib-metadata
+zipp==3.19.1               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
